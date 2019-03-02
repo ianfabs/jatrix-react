@@ -1,0 +1,29 @@
+{
+  "name": "jatrix-react",
+  "version": "0.1.0",
+  "description": "A matrix-like text thing.",
+  "main": "build/index.js",
+  "peerDependencies": {
+    "react": "^15.5.4"
+  },
+  "dependencies": {
+    "react": "^15.5.4",
+    "webpack": "^2.6.1"
+  },
+  "scripts": {
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "author": {
+    "name": "Ian Fabs",
+    "email": "ianfabs@outlook.com"
+  },
+  "devDependencies": {
+    "babel-cli": "latest",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.1"
+  }
+}
