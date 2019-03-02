@@ -3,7 +3,12 @@
 
 Jatrix does this matrix like text thing, it's really cool!
 
-<iframe src="https://codesandbox.io/embed/006zx206zv?autoresize=1&fontsize=14&hidenavigation=1&view=preview" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
+<frameset cols="*">
+
+<frame src="https://codesandbox.io/embed/006zx206zv?autoresize=1&fontsize=14&hidenavigation=1&view=preview" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin">
+</frame>
+
+</frameset>
 
 [![Edit Jatrix](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/006zx206zv?fontsize=14)
 
