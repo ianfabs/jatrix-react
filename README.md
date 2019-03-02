@@ -10,7 +10,7 @@ Jatrix does this matrix like text thing, it's really cool!
 
 </frameset>
 
-[![Edit Jatrix](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/006zx206zv?fontsize=14)
+[![Edit Jatrix](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/006zx206zv?fontsize=14&view=preview)
 
 Long story short, jatrix-react is a react component, as such it needs props.
 
