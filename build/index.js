@@ -121,7 +121,7 @@ var _class = function (_React$Component) {
       display: '',
       inc: 0,
       ninc: 0,
-      alph: " abcdefghijklmnopqrstuvwxyz1234567890",
+      alph: " abcdefghijklmnopqrstuvwxyz1234567890'\":;-_=+!@#$%^&*()[]{}.,/?",
       full: []
     };
     return _this;
